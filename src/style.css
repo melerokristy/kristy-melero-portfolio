@@ -28,7 +28,6 @@ h3 {
 }
 
 p {
-  background: var(--secondary-color);
   padding: 20px;
   border-radius: 4px;
   font-size: 18px;
