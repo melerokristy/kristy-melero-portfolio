@@ -57,9 +57,6 @@ p {
   box-shadow: var(--box-shadow);
   color: white;
 }
-.contact {
-  text-align: flex;
-}
 
 .about-link {
   color: var(--primary-color);
