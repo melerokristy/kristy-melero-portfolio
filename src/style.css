@@ -58,7 +58,7 @@ p {
   color: white;
 }
 .contact {
-  text-align: center;
+  text-align: flex;
 }
 
 .about-link {
