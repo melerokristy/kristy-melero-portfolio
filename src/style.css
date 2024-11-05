@@ -57,6 +57,9 @@ p {
   box-shadow: var(--box-shadow);
   color: white;
 }
+.contact {
+  text-align: center;
+}
 
 .about-link {
   color: var(--primary-color);
