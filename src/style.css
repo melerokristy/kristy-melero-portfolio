@@ -37,10 +37,7 @@ p {
   line-height: 1.5;
   text-align: center;
 }
-.row {
-  text-align: center;
-  display: block;
-}
+
 .navigation-links {
   display: flex;
   margin-top: 40px;
@@ -102,4 +99,9 @@ p {
   background: var(--secondary-color);
   text-align: center;
   padding: 160px 20px;
+}
+
+footer {
+  text-align: center;
+  display: block;
 }
