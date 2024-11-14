@@ -110,6 +110,7 @@ footer {
 footer .work-inquiry {
   text-align: center;
   margin: 0;
+  padding: 10px;
 }
 footer .contact-box {
   background: var(--secondary-color);
