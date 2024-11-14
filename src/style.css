@@ -36,7 +36,9 @@ p {
   font-size: 16px;
   line-height: 30px;
 }
-
+div {
+  text-align: center;
+}
 .nav-link a:visited {
   color: green;
 }
