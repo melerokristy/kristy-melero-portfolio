@@ -37,7 +37,7 @@ p {
   line-height: 1.5;
   text-align: center;
 }
-.nav-link:visited {
+.nav-link a:visited {
   color: green;
 }
 .navigation-links {
