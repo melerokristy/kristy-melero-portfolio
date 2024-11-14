@@ -135,7 +135,7 @@ footer.social-links a {
   background-color: var(--secondary-color);
   padding: 10px 14px;
   border-radius: 50%;
-  font-size: 18px;
+  font-size: 20px;
   transition: all 100ms ease-in-out;
 }
 
