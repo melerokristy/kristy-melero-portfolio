@@ -129,7 +129,7 @@ footer .email-link {
 footer .email-link:hover {
   color: var(--primary-color);
 }
-footer.social-links a {
+footer .social-links a {
   margin: 0 20px;
   color: var(--primary-color);
   background-color: var(--secondary-color);
